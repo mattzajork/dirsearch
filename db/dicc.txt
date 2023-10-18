@@ -9631,6 +9631,8 @@ v2/_catalog
 v2/api-docs
 v2/graphiql
 v2/graphql
+v3
+v3/api-docs
 v2/keys/?recursive=true
 v2/playground
 v3
