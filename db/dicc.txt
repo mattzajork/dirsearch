@@ -6595,6 +6595,7 @@ jbpm-console/app/tasks.jsf
 jcadmin
 jdbc
 jdkstatus
+jeecg-boot
 jenkins/
 jenkins/script
 jira/
