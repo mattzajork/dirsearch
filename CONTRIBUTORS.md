@@ -79,6 +79,7 @@
 - [FantasqueX](https://www.github.com/FantasqueX)
 - [archdiote](https://www.github.com/archidote)
 - [Valentijn Scholten](https://www.github.com/valentijnscholten)
+- [Ovi3](https://github.com/Ovi3)
 
 Special thanks to all the people who are named here!
 
