@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 - Support non-default network interface
+- Allow commenting out of urls in url file
 - Remove unused dependencies (urllib3, cryptography, cffi, idna, chardet)
 - Load targets from a Nmap XML report
 
